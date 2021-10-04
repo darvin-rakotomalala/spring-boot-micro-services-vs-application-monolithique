@@ -1,4 +1,4 @@
-### Architecture micro-services vs architecture monolithique
+## Architecture micro-services vs architecture monolithique
 Dans ce depôt github nous allons voir la comparaison entre l'architecture d'une application monolithique et micro services.
 
 ### Qu'est-ce qu'une application monolithique ?
@@ -17,7 +17,7 @@ Supposons que j'ai peu de services, ce qui est :<br/>
 * Services d' expédition 
 * Service de notification
 
-<IMAGE ARCHI>
+![Architecture_monolithique](https://user-images.githubusercontent.com/75081354/135835478-e59a299d-fc0a-469f-9f98-8eefe8302d50.jpg)
 
 Voir le diagramme ci-dessus, je développe les 4 services, puis je les ai tous empaquetés 
 et déployés en une seule WAR, et j'accède aux services à l'aide de l'appel API Rest.
@@ -57,7 +57,7 @@ Un micro-service combine les trois couches "**métier, technique et données**" 
 
 ### Diagramme d'architecture de micro services
 ---
-	<IMAGE ARCHI>
+![Archiitecture_microservice](https://user-images.githubusercontent.com/75081354/135835548-c79dd7d8-a9b1-43fb-bccc-ac963d868712.jpg)
 
 Voir selon le schéma, chaque service est interconnecté mais tous les modules sont séparés ici signifie une WAR indépendante.<br/>
 
