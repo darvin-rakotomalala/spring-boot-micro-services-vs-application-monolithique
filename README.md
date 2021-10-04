@@ -74,5 +74,5 @@ C'est pourquoi de nombreux tiers donnent la main pour prendre en charge l'archit
 
 ### Aperçu de deux architectures
 ---
-Jetons un coup d'œil au diagramme architectural combiné du service monolithique et micro services.<br/>
-<IMAGE ARCHI>
+Jetons un coup d'œil au diagramme architectural combiné du service monolithique et micro services.<br/><br/>
+![Archi_mixte](https://user-images.githubusercontent.com/75081354/135836235-6406078b-2f11-440b-9b27-79dba6fb410e.png)
