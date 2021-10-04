@@ -27,11 +27,11 @@ et déployés en une seule WAR, et j'accède aux services à l'aide de l'appel A
 Les principaux problèmes des applications monolithiques sont :<br/>
 * Elles centralisent tous les besoins fonctionnels
 * Elle sont réalisées dans une seule technologie.
-* Chaque modification neczssite de :
+* Chaque modification necessite de :
 	* Tester les régressions
 	* Redéplyer toute l'application
 * Difficile à faire évoluer au niveau fonctionnel
-* Livraison en bloc (Le client attend beaucoup de temps pour commencer à 	voir les premieres versions)
+* Livraison en bloc (Le client attend beaucoup de temps pour commencer à voir les premieres versions)
 
 ### Les micro services
 ---
